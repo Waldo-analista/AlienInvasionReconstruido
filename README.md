@@ -1,0 +1,3 @@
+Este repositorio contiene la reconstrucción del proyecto 1 del libro llamado Python Crash Course del autor Eric Matthes. 
+En el libro el proyecto se realiza desde las páginas 235 a la página 317. El proyecto consiste en la realización del juego Alien Invasion el cual 
+permite practicar el paradigma de programación orientada a objetos. Además le he agregado sonido ya sea al disparo de "misiles" y sonido de fondo.
